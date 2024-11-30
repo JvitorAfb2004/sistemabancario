@@ -65,7 +65,7 @@ Este projeto é uma aplicação de console que simula um sistema bancário com f
 
 ---
 
-## **Como Usar**
+## Como Usar
 
 1. Inicie o servidor:
    ```bash
@@ -95,19 +95,5 @@ Este projeto é uma aplicação de console que simula um sistema bancário com f
 2. No menu, escolha "PIX".
 3. Insira o usuário destinatário e o valor.
 
----
-
-## Melhorias Futuras
-
-- Implementar criptografia para senhas.
-- Adicionar autenticação por token (JWT).
-- Criar interface gráfica usando React ou Vue.js.
-- Suporte para transações internacionais.
-
----
-
-## Contribuições
-
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e enviar pull requests.
 
 ---
