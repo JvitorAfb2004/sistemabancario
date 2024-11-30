@@ -1,11 +1,11 @@
-Aqui está um modelo de **README.md** para o seu projeto:
+
 
 ```markdown
-# Sistema Bancário com MySQL e Node.js
+Sistema Bancário com MySQL e Node.js
 
 Este projeto é uma aplicação de console que simula um sistema bancário com funcionalidades básicas, como criação de contas, login, consulta de saldo e transferências via PIX. O sistema utiliza **Node.js** para o backend e **MySQL** como banco de dados.
 
-## **Funcionalidades**
+## Funcionalidades
 
 - **Cadastro de usuários**: Criação de novas contas no banco.
 - **Login**: Autenticação de usuários.
@@ -15,7 +15,7 @@ Este projeto é uma aplicação de console que simula um sistema bancário com f
 
 ---
 
-## **Tecnologias Utilizadas**
+## Tecnologias Utilizadas
 
 - **Node.js**: Plataforma para execução de JavaScript no backend.
 - **MySQL**: Banco de dados relacional.
@@ -24,7 +24,7 @@ Este projeto é uma aplicação de console que simula um sistema bancário com f
 
 ---
 
-## **Pré-requisitos**
+## Pré-requisitos
 
 - Node.js (v16 ou superior)
 - MySQL (com banco de dados configurado)
@@ -33,11 +33,11 @@ Este projeto é uma aplicação de console que simula um sistema bancário com f
 
 ---
 
-## **Instalação**
+## Instalação
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/sistema-bancario.git
+   git clone [https://github.com/seu-usuario/sistema-bancario.git](https://github.com/JvitorAfb2004/sistemabancario)
    cd sistema-bancario
    ```
 
@@ -80,7 +80,7 @@ Este projeto é uma aplicação de console que simula um sistema bancário com f
 
 ---
 
-## **Exemplo de Uso**
+## Exemplo de Uso
 
 ### Criar Conta
 1. Selecione a opção "Criar Conta".
@@ -97,7 +97,7 @@ Este projeto é uma aplicação de console que simula um sistema bancário com f
 
 ---
 
-## **Melhorias Futuras**
+## Melhorias Futuras
 
 - Implementar criptografia para senhas.
 - Adicionar autenticação por token (JWT).
@@ -106,15 +106,8 @@ Este projeto é uma aplicação de console que simula um sistema bancário com f
 
 ---
 
-## **Contribuições**
+## Contribuições
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e enviar pull requests.
 
 ---
-
-## **Licença**
-
-Este projeto está licenciado sob a **MIT License**. Veja o arquivo `LICENSE` para mais detalhes.
-```
-
-Esse README inclui informações claras sobre o projeto, tecnologias utilizadas, configuração e uso. Caso precise de personalizações, avise!
